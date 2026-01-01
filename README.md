@@ -1,6 +1,6 @@
 1. Project Title
 
-Hospitality Revenue & Performance Analytics Dashboard – Multi-City Hotel Chain (2022)
+Hospitality Revenue & Performance Analytics Dashboard – Multi-City Hotel Chain (2025)
 
 2. Description
 
@@ -80,4 +80,4 @@ Some properties show strong occupancy but weak pricing efficiency
 Customer ratings correlate with better realization and lower cancellations
 
 6. Dashboard Screenshot
-https://github.com/shrutiwad0308/Hospitality-Domain/upload/main
+[https://github.com/shrutiwad0308/Hospitality-Domain/upload/main](https://github.com/shrutiwad0308/Hospitality-Domain/blob/main/Hospitality%20Domain%20ScreenShort.jpeg)
